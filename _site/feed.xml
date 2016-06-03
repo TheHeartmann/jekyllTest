@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sounds for Pixels</title>
-    <description>Want music that makes your game pop? Sound effects that brings your characters to life? Look no further: Sounds for Pixels are here to help!
+    <description>A music-making, game-playing duo. Here to help you make YOUR game stand out!
 </description>
     <link>soundsforpixels.com/</link>
     <atom:link href="soundsforpixels.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jun 2016 20:50:47 +0200</pubDate>
-    <lastBuildDate>Thu, 02 Jun 2016 20:50:47 +0200</lastBuildDate>
+    <pubDate>Fri, 03 Jun 2016 10:44:42 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Jun 2016 10:44:42 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -35,6 +35,21 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Track of the Week: CB main theme</title>
+        <description>&lt;p&gt;Music talk.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jun 2016 20:21:36 +0200</pubDate>
+        <link>soundsforpixels.com/music/spotlight/2016/06/02/track-of-the-week-cb-main-theme.html</link>
+        <guid isPermaLink="true">soundsforpixels.com/music/spotlight/2016/06/02/track-of-the-week-cb-main-theme.html</guid>
+        
+        
+        <category>music</category>
+        
+        <category>spotlight</category>
         
       </item>
     
